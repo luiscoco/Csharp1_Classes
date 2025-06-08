@@ -1,6 +1,6 @@
 # Csharp1_classes
 
-In C#, classes are used to define objects that encapsulate data and behavior. They serve as blueprints or templates for creating instances, which are specific objects based on the class definition. Classes in C# can have fields, properties, methods, and events. Here's an explanation of each component:
+In C#, classes are used to define objects that encapsulate data and behavior. They serve as blueprints or templates for creating ##instances##, which are specific objects based on the class definition. Classes in C# can have fields, properties, methods, and events. Here's an explanation of each component:
 
 Fields: Fields are variables that hold data specific to an instance of the class. They define the state of the object. You can declare fields within a class to represent its characteristics.
 
